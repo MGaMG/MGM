@@ -5,13 +5,13 @@
       <rdf:Seq>
         <rdf:li>
           <rdf:Description>
-            <em:version>3.8.3</em:version>
+            <em:version>3.8.4</em:version>
             <em:targetApplication>
               <rdf:Description>
                 <em:id>zotero@chnm.gmu.edu</em:id>
                 <em:minVersion>5.0</em:minVersion>
                 <em:maxVersion>*</em:maxVersion>
-                <em:updateLink>https://github.com/MGaMG/MGM/releases/download/v3.8.3/plugin-v3.8.3.xpi</em:updateLink>
+                <em:updateLink>https://github.com/MGaMG/MGM/releases/download/v3.8.4/plugin-v3.8.4.xpi</em:updateLink>
               </rdf:Description>
             </em:targetApplication>
             <em:targetApplication>
@@ -19,7 +19,7 @@
                 <em:id>juris-m@juris-m.github.io</em:id>
                 <em:minVersion>5.0</em:minVersion>
                 <em:maxVersion>*</em:maxVersion>
-                <em:updateLink>https://github.com/MGaMG/MGM/releases/download/v3.8.3/plugin-v3.8.3.xpi</em:updateLink>
+                <em:updateLink>https://github.com/MGaMG/MGM/releases/download/v3.8.4/plugin-v3.8.4.xpi</em:updateLink>
               </rdf:Description>
             </em:targetApplication>
           </rdf:Description>
