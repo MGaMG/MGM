@@ -3,7 +3,7 @@
     "zoteroif@qnscholar": {
       "updates": [
         {
-          "version": "6.1.3",
+          "version": "6.1.4",
           "update_link": "https://github.com/MGaMG/MGM/releases/download/v6.1.4/Zotero-One-v6.1.4.xpi",
           "applications": {
             "zotero": {
