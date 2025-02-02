@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "6.1.3",
-          "update_link": "https://github.com/MGaMG/MGM/releases/download/v6.1.3/Zotero-One-v6.1.3.xpi",
+          "update_link": "https://github.com/MGaMG/MGM/releases/download/v6.1.4/Zotero-One-v6.1.4.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
