@@ -3,8 +3,8 @@
     "zoteroif@qnscholar": {
       "updates": [
         {
-          "version": "6.7.6.1",
-          "update_link": "https://github.com/MGaMG/MGM/releases/download/v6.7.6.1/Zotero-One-v6.7.6.1.xpi",
+          "version": "6.7.6.2",
+          "update_link": "https://github.com/MGaMG/MGM/releases/download/v6.7.6.2/Zotero-One-v6.7.6.2.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
